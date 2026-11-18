@@ -1,0 +1,16 @@
+﻿date,description,category,type,amount
+2026-11-01,Monthly Salary,Salary,income,45000
+2026-11-02,House Rent,Housing,expense,10000
+2026-11-03,Grocery Shopping,Food,expense,3500
+2026-11-04,Electricity Bill,Utilities,expense,1200
+2026-11-05,Petrol,Fuel,expense,2500
+2026-11-06,Freelance Payment,Freelance,income,5000
+2026-11-07,Restaurant Dinner,Food,expense,1200
+2026-11-08,Internet Bill,Utilities,expense,800
+2026-11-09,Movie Tickets,Entertainment,expense,600
+2026-11-10,Medical Expenses,Healthcare,expense,1500
+2026-11-11,Shopping,Shopping,expense,2200
+2026-11-12,Bus and Auto,Transport,expense,700
+2026-11-13,Mobile Recharge,Utilities,expense,400
+2026-11-14,Online Subscription,Entertainment,expense,499
+2026-11-15,Investment Transfer,Savings,expense,3000
